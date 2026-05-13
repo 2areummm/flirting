@@ -6,7 +6,9 @@ Applicable Countries: Japan, Vietnam, Malaysia, Indonesia, UAE, Saudi Arabia, an
 
 Last Updated: 2025.05.13 Effective Date: 2025.05.13
 
-1. TERMS OF SERVICE
+TERMS OF SERVICE
+
+
 1. Acceptance of Terms
 Welcome to Flirting ("we," "us," "our," or "the Service"). These Terms of Service ("Terms") govern your use of the Flirting mobile application and related services.
 
