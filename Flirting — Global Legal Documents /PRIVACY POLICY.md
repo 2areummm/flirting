@@ -93,6 +93,7 @@ Active accounts: As long as your account exists
 Deleted accounts: Most data deleted within 30 days
 Legal/safety records: Up to 5 years as required by law
 Anonymized analytics: Indefinitely
+
 9. Security
 We implement industry-standard security measures including encryption, access controls, and regular audits. However, no system is 100% secure. Report security concerns to info@evmodu.kr
 
