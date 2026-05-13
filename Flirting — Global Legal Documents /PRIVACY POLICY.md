@@ -1,4 +1,4 @@
-2. PRIVACY POLICY
+PRIVACY POLICY
 
 
 1. Introduction
