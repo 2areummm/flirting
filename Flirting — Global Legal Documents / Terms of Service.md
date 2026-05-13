@@ -1,4 +1,3 @@
-</> Markdown
 # Flirting — Terms of Service
 
 **Global Legal Documents**
@@ -7,8 +6,8 @@ Applicable Countries: Japan, Vietnam, Malaysia, Indonesia, UAE, Saudi Arabia, an
 
 Last Updated: 2025.05.13 Effective Date: 2025.05.13
 
-**1. TERMS OF SERVICE
-**1. Acceptance of Terms
+1. TERMS OF SERVICE
+1. Acceptance of Terms
 Welcome to Flirting ("we," "us," "our," or "the Service"). These Terms of Service ("Terms") govern your use of the Flirting mobile application and related services.
 
 By creating an account, accessing, or using Flirting, you agree to be bound by these Terms. If you do not agree, please do not use the Service.
