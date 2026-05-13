@@ -84,7 +84,7 @@ Withdraw consent at any time
 🇸🇦 Saudi Arabia (PDPL — Royal Decree No. M/19): Right to access, correction, erasure, and to object to direct marketing. Right to withdraw consent. Right to file a complaint with SDAIA within 90 days of becoming aware of any violation.
 
 7.3 How to Exercise Your Rights
-Email privacy@flirting.com with your request. We will respond within 30 days.
+Email info@evmodu.kr with your request. We will respond within 30 days.
 
 8. Data Retention
 We retain your data:
@@ -94,10 +94,10 @@ Deleted accounts: Most data deleted within 30 days
 Legal/safety records: Up to 5 years as required by law
 Anonymized analytics: Indefinitely
 9. Security
-We implement industry-standard security measures including encryption, access controls, and regular audits. However, no system is 100% secure. Report security concerns to security@flirting.com.
+We implement industry-standard security measures including encryption, access controls, and regular audits. However, no system is 100% secure. Report security concerns to info@evmodu.kr
 
 10. Children's Privacy
-Flirting is strictly for users 18 and older. We do not knowingly collect data from anyone under 18. If we discover such data, we will delete it immediately. Parents who believe their child has provided us with personal information should contact privacy@flirting.com.
+Flirting is strictly for users 18 and older. We do not knowingly collect data from anyone under 18. If we discover such data, we will delete it immediately. Parents who believe their child has provided us with personal information should contact info@evmodu.kr
 
 11. Cookies and Tracking
 We use cookies and similar technologies for:
