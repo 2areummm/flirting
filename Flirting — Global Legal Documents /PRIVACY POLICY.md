@@ -1,4 +1,6 @@
 2. PRIVACY POLICY
+
+
 1. Introduction
 This Privacy Policy explains how Flirting ("we," "us," "our") collects, uses, stores, and protects your personal data. By using Flirting, you consent to the practices described here.
 
