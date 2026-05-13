@@ -21,14 +21,14 @@ You must be at least 18 years old...
 
 ...
 
-title: Flirting — Global Legal Documents
-description: Flirting — Global Legal Documents
+**title: Flirting — **Global Legal Documents**
+**description: Flirting — **Global Legal Documents**
 
 
 
 Applicable Countries: Japan, Vietnam, Malaysia, Indonesia, UAE, Saudi Arabia, and other regions outside Korea
 
-Last Updated: [DATE] Effective Date: [DATE]
+Last Updated: 2025.05.13 Effective Date: 2025.05.13
 
 1. TERMS OF SERVICE
 1. Acceptance of Terms
