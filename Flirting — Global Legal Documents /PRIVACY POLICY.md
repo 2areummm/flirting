@@ -71,7 +71,7 @@ Object to direct marketing
 Data Portability (receive a copy in machine-readable format)
 Withdraw consent at any time
 7.2 Region-Specific Rights
-🇯🇵 Japan (APPI): Right to request disclosure, correction, and suspension of use of your personal data. Contact privacy@flirting.com.
+🇯🇵 Japan (APPI): Right to request disclosure, correction, and suspension of use of your personal data. Contact info@evmodu.kr.
 
 🇻🇳 Vietnam (PDPD 2023): Right to access, rectification, erasure, and to object to data processing. Right to be informed of data breaches affecting you.
 
